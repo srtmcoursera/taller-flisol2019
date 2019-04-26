@@ -1,2 +1,2 @@
-# Este es mi proyecto para el FLISOL 2019.
+# Este es nuestro proyecto para el FLISOL 2019.
 ## Saludos al planeta...
